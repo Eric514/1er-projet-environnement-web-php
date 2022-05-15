@@ -7,13 +7,71 @@ body {
     text-align: center;
 }
 
+header {
+    background: rgb(245, 239, 223);
+    color: black;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', serif;
+}
 
+nav {
+    background: white;
+    padding: 5px;
+    color: black;
+    letter-spacing: 5px;
+    background: white; 
+    border: 4px solid rgb(0, 0, 0);
+    width: 60%;
+    border: 4px solid rgb(0, 0, 0);
+    padding: 20px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    text-align: center;
+    margin: auto;
+}
 
+.menu {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding: 14px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
 
+.menu:hover {
+    background: rgb(245, 239, 223);
+    border: 3px solid rgb(0, 0, 0);
 
+    border-radius: 1em 4em 1em 4em / 2em 1em 2em 1em;
+    -moz-border-radius: 1em 4em 1em 4em / 2em 1em 2em 1em;
+    -webkit-border-radius: 1em 4em 1em 4em / 2em 1em 2em 1em;
+}
 
+.active {
+    background: wheat;
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 1em 4em 1em 4em / 2em 1em 2em 1em;
+    -moz-border-radius: 1em 4em 1em 4em / 2em 1em 2em 1em;
+    -webkit-border-radius: 1em 4em 1em 4em / 2em 1em 2em 1em;
+    color: rgb(0, 0, 0);
+}
 
-
+h1 {
+    color: black;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background: white;
+    text-align: center;
+    border: 4px solid rgb(0, 0, 0);
+    padding: 20px;
+    width: 65%;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    margin: auto;
+}
 
 h2, h4, h5 {
     text-align: center;
@@ -26,7 +84,11 @@ p {
     text-align: center;
     margin: auto;
     background: rgb(255, 226, 147);
-
+    border: 1px solid rgb(0, 0, 0);
+    width: 40%;
+    border-radius: 1em 4em 1em 4em / 2em 1em 2em 1em;
+    -moz-border-radius: 1em 4em 1em 4em / 2em 1em 2em 1em;
+    -webkit-border-radius: 1em 4em 1em 4em / 2em 1em 2em 1em;
 }
 
 section {
@@ -52,3 +114,11 @@ input{
     padding: 8px;
 }
 
+.sol {
+    background: rgb(255, 208, 80);
+    border: 1px solid rgb(0, 0, 0);
+    width: 100px;
+    border-radius: 1em 4em 1em 4em / 2em 1em 2em 1em;
+    -moz-border-radius: 1em 4em 1em 4em / 2em 1em 2em 1em;
+    -webkit-border-radius: 1em 4em 1em 4em / 2em 1em 2em 1em;
+}
