@@ -6,8 +6,7 @@ define('NB_MINUTES', 60);
 date_default_timezone_set('America/Toronto');
 $heuresJ = date("h");
 $minutesI = date("i");
-// echo "Heure actuelle : <br>" . $heuresJ . " h " . $minutesI;
-// echo "<br>";
+
 $now = "XXXX";
 $arr = array();
 for ($j = 0; $j < 12; $j++) {
@@ -35,7 +34,6 @@ if ($heureMinute !== "") {
             $exact = true;
             $heureMinute = "$heureSaisie:$minuteSaisie";
 } else {
-    // $heureMinute = "";
     $exact = false;
 }
         if ($heureMinute === "") {
@@ -125,8 +123,6 @@ if ($heureMinute !== "") {
                 <input type="text" name="heureMinute" value="<?= $heureMinute ?>" placeholder="entrez sous la forme heure(s):minute(s)">
                 <input type="submit" value="Envoyer">
             </form>
-
-            <!-- if (($minuteSaisie == "") || ($heureSaisie == "")) { -->
                 
                 <?php echo '<table class="tableStyle">';
             for ($i = 0; $i < count($arr); $i++) {
