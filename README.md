@@ -2,9 +2,10 @@
 Projet Final du cours 420-11E-MA - Environnement de développement Web 1.
 Professeur :		Keven Presseau-St-Laurent.
 
+
+-----------------------------------------------
 Afin de visualiser ce projet, il sera nécessaire d'avoir préalablement installé un logiciel externe tel que xampp afin de visualiser les différentes
 fonctions en php.
------------------------------------------------
 Énoncé:
 -----------------------------------------------
 Pour votre projet final, vous devez créer un site web de 4 pages reprenant partiellement les activités 9, 10 et TP3.
@@ -29,11 +30,3 @@ Site Web:
     Page 4: Un formulaire en haut de page demandant à un utilisateur d'entrer un mot de passe de 4 symboles incluant les lettres de l'alphabet
     en minuscule et les chiffres (vous pouvez assumer que les utilisateurs ne feront pas d'erreurs) avec un bouton de soumission. Une fois le bouton appuyer, afficher le temps nécessaire pour effectuer une attaque par force brute sur le mot de passe.
 
-Front end: 2 point pour affichage partiel, 4 points pour un affichage complet, 6 points pour un affichage complet avec des titres, du formatage
-et l'utilisation de css.
-Back end: 2 points pour chaque page fonctionnant correctement.
-
-
------------------------------------------------
-Description et sections:
------------------------------------------------
