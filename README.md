@@ -2,6 +2,8 @@
 Projet Final du cours 420-11E-MA - Environnement de développement Web 1.
 Professeur :		Keven Presseau-St-Laurent.
 
+Afin de visualiser ce projet, il sera nécessaire d'avoir préalablement installé un logiciel externe tel que xampp afin de visualiser les différentes
+fonctions en php.
 -----------------------------------------------
 Énoncé:
 -----------------------------------------------
@@ -30,3 +32,8 @@ Site Web:
 Front end: 2 point pour affichage partiel, 4 points pour un affichage complet, 6 points pour un affichage complet avec des titres, du formatage
 et l'utilisation de css.
 Back end: 2 points pour chaque page fonctionnant correctement.
+
+
+-----------------------------------------------
+Description et sections:
+-----------------------------------------------
