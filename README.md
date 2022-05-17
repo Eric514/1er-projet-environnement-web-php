@@ -1,6 +1,6 @@
-# projetFinal-env-web1
-Projet Final du cours 420-11E-MA - Environnement de développement Web 1.
-Au collège de Maisonneuve, formation continue, Conception et programmation de sites Web.
+# projetFinal-env-web1 <br>
+Projet Final du cours 420-11E-MA - Environnement de développement Web 1.<br>
+Au collège de Maisonneuve, formation continue, Conception et programmation de sites Web.<br>
 Professeur: Keven Presseau-St-Laurent.
 
 
@@ -9,12 +9,12 @@ Afin de visualiser ce projet, il sera nécessaire d'avoir préalablement install
 fonctions en php.
 
 -----------------------------------------------
-Énoncé du travail:
+Énoncé du travail:<br>
 Pour votre projet final, vous devez créer un site web de 4 pages reprenant partiellement les activités 9, 10 et TP3.
-Vous devez aussi démontrer votre capacité à lancer votre site Web sur votre machine locale et votre capacité à le déboguer.
+Vous devez aussi démontrer votre capacité à lancer votre site Web sur votre machine locale et votre capacité à le déboguer.<br>
 Vous devez ensuite pouvoir lancer une machine virtuelle avec Fedora comme système d'exploitation.
 Vous devez démontrer votre capacité à utiliser des lignes de commandes pour versionner et publier votre travail en plus de démontrer
-votre capacité à versionner votre travail correctement.
+votre capacité à versionner votre travail correctement.<br>
 Finalement vous devez remettre votre travail sur GitHub.
 
 -> Page 1: Page d'accueil avec en titre «projet final», en sous-titre environnement de développement web 1 et trois liens vers les autres pages du projet final avec leur description.
@@ -24,7 +24,7 @@ Finalement vous devez remettre votre travail sur GitHub.
 -> Page 3: Une page affichant un paquet de cartes brassé de manière aléatoire et différente à chaque rafraîchissement. C'est à vous de decider comment vous voulez effectuer le brassage.
 
 -> Page 4: Un formulaire en haut de page demandant à un utilisateur d'entrer un mot de passe de 4 symboles incluant les lettres de l'alphabet en minuscule et les chiffres (vous pouvez assumer que les utilisateurs ne feront pas d'erreurs) avec un bouton de soumission. Une fois le bouton appuyer, afficher le temps nécessaire pour effectuer une attaque par force brute sur le mot de passe.
-
+<br><br>
 .
-Feuille de route:
+Feuille de route:<br>
 Ce projet est terminé et est ouvert à utilisation.
