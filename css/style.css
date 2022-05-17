@@ -44,6 +44,7 @@ nav {
     background: rgb(245, 239, 223);
     border: 3px solid rgb(0, 0, 0);
 
+    /*Pour le design rectangulaire aux bordures arrondies le Menu Hover et pour les paragraphes plus bas, je me suis inspiré du livre de « Jon Duckett, Html&Css, Design and build websites, aux éditions Wiley. » */
     border-radius: 1em 4em 1em 4em / 2em 1em 2em 1em;
     -moz-border-radius: 1em 4em 1em 4em / 2em 1em 2em 1em;
     -webkit-border-radius: 1em 4em 1em 4em / 2em 1em 2em 1em;
