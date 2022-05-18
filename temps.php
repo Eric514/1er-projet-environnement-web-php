@@ -123,8 +123,10 @@ if ($heureMinute !== "") {
                 <input type="text" name="heureMinute" value="<?= $heureMinute ?>" placeholder="entrez sous la forme heure(s):minute(s)">
                 <input type="submit" value="Envoyer">
             </form>
-                
-                <?php echo '<table class="tableStyle">';
+        
+        <?php
+        if ($minuteSaisie !=="" || $heureSaisie !== ""){
+        echo '<table class="tableStyle">';
             for ($i = 0; $i < count($arr); $i++) {
                 echo '<tr class="tdtrStyle">';
                 for ($j = 0; $j < count($arr[$i]); $j++) {
@@ -141,7 +143,7 @@ if ($heureMinute !== "") {
                 echo "</tr>";
             }
             echo "</table>";
-        
+        }
             ?>
         </main>
     </body>
