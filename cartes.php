@@ -56,7 +56,7 @@ while (count($deck) > 0) {
         <section>
         <form action="<?= $_SERVER['PHP_SELF'] ?>" method="get">
                 <input type="submit" value="BRASSER">
-            <?php print_r("<pre>" . print_r($deckBrasse, true) . "</pre>");?>
+            <p> <?php echo implode(", ", $deckBrasse) ;?> </p>
         </section>
     </main>
 </body>
